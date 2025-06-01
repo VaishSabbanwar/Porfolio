@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vaishnavi Sabbanwar - Developer Portfolio</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body { font-family: 'Segoe UI', sans-serif; line-height: 1.6; }
+    .section-title { margin-top: 40px; margin-bottom: 20px; font-weight: bold; }
+    .project, .internship { margin-bottom: 15px; }
+    footer { margin-top: 40px; padding: 20px 0; background: #f8f9fa; text-align: center; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="text-center mt-5">
+      <h1>Vaishnavi Sabbanwar</h1>
+      <p class="lead">MCA Graduate | Full-Stack Developer | Problem Solver</p>
+      <p>
+        <a href="mailto:vaishnavisabbanwar@gmail.com">vaishnavisabbanwar@gmail.com</a> |
+        <a href="https://www.linkedin.com/in/vaishnavi-sabbanwar-030402228" target="_blank">LinkedIn</a> |
+        <a href="https://github.com/VaishSabbanwar" target="_blank">GitHub</a>
+      </p>
+    </header>
+
+    <section id="about">
+      <h2 class="section-title">About Me</h2>
+      <p>MCA graduate with a strong foundation in software development. Experienced in full-stack development, UI design, and object detection systems using YOLOv7. Passionate about building efficient, user-centric applications and contributing to innovative development teams.</p>
+    </section>
+
+    <section id="skills">
+      <h2 class="section-title">Skills</h2>
+      <ul>
+        <li><strong>Languages:</strong> Python, Java, SQL, HTML, CSS</li>
+        <li><strong>Frameworks/Libraries:</strong> Django, Flask, FastAPI, Bootstrap</li>
+        <li><strong>Tools:</strong> Git, PyTorch, OpenCV, VS Code</li>
+        <li><strong>Platforms:</strong> Windows, Linux</li>
+        <li><strong>Concepts:</strong> OOP, REST APIs, SDLC, Agile, DNN</li>
+      </ul>
+    </section>
+
+    <section id="projects">
+      <h2 class="section-title">Projects</h2>
+      <div class="project">
+        <h5>File System of Crime (VB, 2021)</h5>
+        <p>Digital FIR system allowing users to search by FIR number, applicant name, or date.</p>
+      </div>
+      <div class="project">
+        <h5>Chatbot for Education Queries (HTML, CSS, JS, 2024)</h5>
+        <p>Interactive chatbot designed to answer academic questions with a user-friendly UI.</p>
+      </div>
+      <div class="project">
+        <h5>YOLOv7 Object Detection System (Python, 2025)</h5>
+        <p>Built a real-time object detection model using YOLOv7, PyTorch, and OpenCV with high precision analysis.</p>
+      </div>
+    </section>
+
+    <section id="internships">
+      <h2 class="section-title">Internships</h2>
+      <div class="internship">
+        <h6>Codesoft (Jun–Jul 2024)</h6>
+        <p>Developed Python mini-projects: To-Do List, Calculator, Contact Book.</p>
+      </div>
+      <div class="internship">
+        <h6>Bharat Intern (Sep–Oct 2024)</h6>
+        <p>Built mobile apps: To-Do List, Weather Forecast, and Quiz App using Android tools.</p>
+      </div>
+      <div class="internship">
+        <h6>Accenture Virtual Internship (Forage, Nov–Dec 2024)</h6>
+        <p>Explored SDLC/STLC, software testing, Agile processes, and debugging practices.</p>
+      </div>
+    </section>
+
+    <section id="contact">
+      <h2 class="section-title">Contact</h2>
+      <p>Email: <a href="mailto:vaishnavisabbanwar@gmail.com">vaishnavisabbanwar@gmail.com</a></p>
+      <p>Phone: +91 9156143917</p>
+      <p>Location: Chandrapur, Maharashtra</p>
+    </section>
+
+    <footer>
+      <p>&copy; 2025 Vaishnavi Sabbanwar. All rights reserved.</p>
+    </footer>
+  </div>
+</body>
+</html>
